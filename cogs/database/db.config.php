@@ -1,0 +1,7 @@
+<?php
+
+CONST SERVERNAME = '****';
+CONST DBNAME = '***';
+CONST DBUSERNAME = '***';
+CONST DBPASSWORD = '***';
+//CONST DBCHARSET = 'utf8';
